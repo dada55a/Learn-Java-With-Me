@@ -25,6 +25,6 @@ lets run the code first and see the output:
 
 - to run the code you need to press run button
 
-It printed hello world.
+It prints hello world.
 
 
