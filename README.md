@@ -25,4 +25,4 @@ w3school: https://www.w3schools.com/java/default.asp
 
 8.  Practice 3 excercises
 
-9. If else
+9. Control Statement
