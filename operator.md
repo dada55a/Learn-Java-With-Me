@@ -73,9 +73,6 @@ Logical operators are used to determine the logic between variables or values:
 
 Precedence and associative rules are used when dealing with hybrid equations involving more than one type of operator. In such cases, these rules determine which part of the equation to consider first, as there can be many different valuations for the same equation. The below table depicts the precedence of operators in decreasing order as magnitude, with the top representing the highest precedence and the bottom showing the lowest precedence.
 
-
-
-
 | Precedence | Operator                                   | Type                                                                                                                                                   | Associativity |
 | ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
 | 15         | ()<br>[]<br>·                              | Parentheses<br>Array subscript<br>Member selection<br>                                                                                                 | Left to Right |
@@ -93,5 +90,3 @@ Precedence and associative rules are used when dealing with hybrid equations inv
 | 3          | \|                                         | Logical OR                                                                                                                                             | Left to right |
 | 2          | ? :                                        | Ternary conditional                                                                                                                                    | Right to left |
 | 1          | =<br>+=<br>-=<br>*=<br>/=<br>%=            | Assignment<br>Addition assignment<br>Subtraction assignment<br>Multiplication assignment<br>Division assignment<br>Modulus assignment                  | Right to left |
-
-
